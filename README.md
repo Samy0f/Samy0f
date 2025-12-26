@@ -41,7 +41,7 @@ Whenever I see a beautifully crafted site, I can’t resist the urge to rebuild 
   <div align="center"> 
 
   [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&to=sadmansamy95@gmail.com)
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samy0f/)
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samy0i/)
   [![Gmail](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/samy0f/)
 
   </div>
