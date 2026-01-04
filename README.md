@@ -41,7 +41,7 @@ Whenever I see a beautifully crafted site, I can’t resist the urge to rebuild 
   <div align="center"> 
 
   [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&to=sadmansamy95@gmail.com)
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samy0i/)
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samy0f/)
   [![Gmail](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/samy0f/)
 
   </div>
@@ -58,7 +58,7 @@ Whenever I see a beautifully crafted site, I can’t resist the urge to rebuild 
 <!-- Status -->
 <div align="center">
 
-[![GitHub Streak](https://github-streak.samy0f.com?user=Samy0i&theme=transparent&border_radius=10&short_numbers=true&border=3D444D&currStreakNum=EBEBEB&sideNums=EBEBEB&fire=EB0574&dates=9198A1&currStreakLabel=EBEBEB&sideLabels=EBEBEB&ring=00EB6E&stroke=3D444D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-streak.samy0f.com?user=Samy0f&theme=transparent&border_radius=10&short_numbers=true&border=3D444D&currStreakNum=EBEBEB&sideNums=EBEBEB&fire=EB0574&dates=9198A1&currStreakLabel=EBEBEB&sideLabels=EBEBEB&ring=00EB6E&stroke=3D444D)](https://git.io/streak-stats)
 </div>
 
 
